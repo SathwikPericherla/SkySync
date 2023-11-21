@@ -1,4 +1,4 @@
-# Weather App
+# SkySync
 
 A simple weather app that displays the current weather information.
 
@@ -25,7 +25,7 @@ A simple weather app that displays the current weather information.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/weather-app.git 
+   git clone https://github.com/SathwikPericherla/SkySync.git
 2 .Open index.html in a web browser.
 
 
